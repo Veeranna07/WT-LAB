@@ -1,1 +1,64 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<students-details>
+	<student>
+		<studentid>6601</studentid>
+		<name>ALLEN</name>
+		<address>MALKAGIRI</address>
+		<gender>MALE</gender>
+		</student>
+	<student>
+		<studentid>6602</studentid>
+		<name>ANIRUDH</name>
+		<address>MEDCHAL</address>
+		<gender>MALE</gender>
+	</student>
+	<student>
+		<studentid>6603</studentid>
+		<name>NITISHA</name>
+		<address>MUSHEERABAD </address>
+		<gender>FEMALE</gender>
+	</student>
+	<student>
+		<studentid>6604</studentid>
+		<name>JASWANTH</name>
+		<address>VANASTHALIPURAM</address>
+		<gender>MALE</gender>
+	</student>
+	<student>
+		<studentid>6605</studentid>
+		<name>BHARATHWAJ</name>
+		<address>NAGARAM</address>
+		<gender>MALE</gender>
+	</student>
+	<student>
+		<studentid>6606</studentid>
+		<name>SAI KUMAR</name>
+		<address>NAGARAM</address>
+		<gender>MALE</gender>
+	</student>
+	<student>
+		<studentid>6607</studentid>
+		<name>BHUKYA VEERANNA</name>
+		<address>SECUNDERABAD</address>
+		<gender>MALE</gender>
+	</student>
+	<student>
+		<studentid>6608</studentid>
+		<name> BHUVAN</name>
+		<address>NEREDMET </address>
+		<gender>MALE</gender>
+	</student>
+	<student>
+		<studentid>6609</studentid>
+		<name>SANJAY</name>
+		<address>MOULA-ALI</address>
+		<gender>MALE</gender>
+	</student>
+	<student>
+		<studentid>6610</studentid>
+		<name>SAHITH</name>
+		<address>A S RAO NAGAR</address>
+		<gender>MALE</gender>
+	</student>
+</students-details>
